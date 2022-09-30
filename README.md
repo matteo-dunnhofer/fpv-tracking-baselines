@@ -1,5 +1,14 @@
-# Implementations of FPV trackers
+# Implementation of FPV trackers
 This repository contains the implementations of the tracking algorithms LTMU-H and TbyD-H presented in the paper "Visual Object Tracking in First Person Vision" appearing in the International Journal of Computer Vision (IJCV).
+
+<!-- start badges -->
+[![arXiv-2209.13502](https://img.shields.io/badge/arXiv-2209.13502-red.svg)](https://arxiv.org/abs/2209.13502)
+[![arXiv-2108.13665](https://img.shields.io/badge/arXiv-2108.13665-red.svg)](http://arxiv.org/abs/2108.13665)
+<!-- end badges -->
+
+![LTMU-H](ltmuh.jpg)
+
+Refer to the respective ```README.md``` present in the ```LTMU-H``` and ```TbyD-H``` folders to know how to run each of the trackers.
 
 ## Authors
 Matteo Dunnhofer (1)
